@@ -1,0 +1,13 @@
+{
+  "name": "multi-chat-overlay",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "tmi.js": "^1.8.5",
+    "ws": "^8.13.0",
+    "googleapis": "^133.0.0"
+  }
+}
